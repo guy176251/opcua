@@ -1142,7 +1142,7 @@ dependencies = [
 
 [[package]]
 name = "opcua-certificate-creator"
-version = "0.13.0"
+version = "0.13.1"
 dependencies = [
  "opcua",
  "pico-args",
@@ -1150,7 +1150,7 @@ dependencies = [
 
 [[package]]
 name = "opcua-chess-server"
-version = "0.13.0"
+version = "0.13.1"
 dependencies = [
  "opcua",
  "uci",
@@ -1158,7 +1158,7 @@ dependencies = [
 
 [[package]]
 name = "opcua-demo-server"
-version = "0.13.0"
+version = "0.13.1"
 dependencies = [
  "chrono",
  "lazy_static",
@@ -1172,7 +1172,7 @@ dependencies = [
 
 [[package]]
 name = "opcua-discovery-client"
-version = "0.13.0"
+version = "0.13.1"
 dependencies = [
  "opcua",
  "pico-args",
@@ -1181,7 +1181,7 @@ dependencies = [
 
 [[package]]
 name = "opcua-event-client"
-version = "0.13.0"
+version = "0.13.1"
 dependencies = [
  "opcua",
  "pico-args",
@@ -1190,7 +1190,7 @@ dependencies = [
 
 [[package]]
 name = "opcua-integration"
-version = "0.13.0"
+version = "0.13.1"
 dependencies = [
  "chrono",
  "log",
@@ -1200,7 +1200,7 @@ dependencies = [
 
 [[package]]
 name = "opcua-mqtt-client"
-version = "0.13.0"
+version = "0.13.1"
 dependencies = [
  "opcua",
  "pico-args",
@@ -1210,7 +1210,7 @@ dependencies = [
 
 [[package]]
 name = "opcua-simple-client"
-version = "0.13.0"
+version = "0.13.1"
 dependencies = [
  "opcua",
  "pico-args",
@@ -1219,7 +1219,7 @@ dependencies = [
 
 [[package]]
 name = "opcua-simple-server"
-version = "0.13.0"
+version = "0.13.1"
 dependencies = [
  "chrono",
  "log",
